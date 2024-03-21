@@ -18,7 +18,7 @@ First, create a new github repo, do not check `Initialize this repository with a
 
 Then we will call cookiecutter in order to download the template:
 ```sh
-cookiecutter https://github.com/EdgarLefevre/cbib_python_template.git
+cookiecutter https://github.com/uguyet/cbib_python_template.git
 ```
 
 Next, the software will ask you some questions:
